@@ -2870,7 +2870,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I am Interested in Web Development.
 - I love designing frontend Webpages and Coding.
 - [![github-alt][github-img]](https://github.com/Gshivani1234)
-
+### Shivani Jain
+-I m a computer science student.
+-I m interested in android development.
+-I m a student of delhi college of engineering(DTU).
 ### Shiven S.
 
 - I'm a web developer and a high school student.
